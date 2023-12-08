@@ -1,0 +1,40 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+}
+
+header{
+    background-color: aquamarine;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.obrazek{
+    width: 20%;
+}
+
+ul{
+    font-size: 20px;
+    display: flex;
+    gap: 34px;
+}
+
+li{
+    display: flex;
+}
+
+a{
+    text-decoration: none;
+    color: darkred;
+}
+
+footer{
+    background-color: aquamarine;
+    margin-top: 900px;
+    padding: 20px;
+}
+
+p{
+    font-size: 30px;
+}
